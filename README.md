@@ -54,15 +54,13 @@ Cependant, contrairement à la nature impitoyable des réseaux sociaux, **Fuga**
    - Technologie vintage (moniteurs CRT, câbles usés) et végétation intégrée.  
 
 ### **Logiciels :**  
-1. **Unity :**  
-   - Modélisation et animation de la plante.  
-   - Gestion des interactions en temps réel.  
+1. **touch designer :**  
+  
 2. **Max :**  
    - Génération des sons et leur modulation par le M5Stack Button.  
 3. **OSC :**  
    - Communication entre le matériel et le logiciel Unity.  
-4. **Firebase ou BDD Locale :**  
-   - Stockage des données de l’état de la plante pour persistance entre les sessions.
+
 
 <!-- 
 ## **Ambiance et scénographie**
